@@ -1,3 +1,4 @@
-#!/bin/bash
-
-apt install vim vim-athena
+#!/usr/bin/php
+<?php
+echo 'olá';
+?>
