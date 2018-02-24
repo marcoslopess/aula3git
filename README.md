@@ -9,4 +9,3 @@ git checkout (desfaz uma modificação na unstaged ou muda de branch)
 git diff (lista as modificações que você fez)
 git branch (lista ou cria uma branch)
 
-
